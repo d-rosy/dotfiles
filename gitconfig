@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = roosen.dorien@gmail.com
+	name = Dorien Roosen
